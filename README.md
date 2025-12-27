@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋! my name is Ayo, a Computer Science student at Carleton University wth a concentration in Algorithms! I love to build and learn, and am always looking to tackle new challenges to grow as a person!
+
+
 
 <!--
 **ayosoile/ayosoile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
