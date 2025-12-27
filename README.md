@@ -1,7 +1,7 @@
 ## Hi there 👋! my name is Ayo, a Computer Science student at Carleton University wth a concentration in Algorithms! I love to build and learn, and am always looking to tackle new challenges to grow as a person!
 
 ⚡Languages I use: Javascript, Python, C, HTML, CSS, C++, Java
-⚡Frameworks/Tools: React.js, Node.js, SQLite, pandas library, Flask, Express, Pug
+⚡Frameworks/Tools: React.js, Node.js, SQLite, pandas library, Flask, Express, Pug, JSON, HTTPS
 
 👯 Experience: I previously worked at STEM MINDS, where I worked with SQLite, Python, pandas library, HTML, and CSS to designed a database system for the companies inventory allowing for streamlined tracking of electronics and technology!
 
