@@ -7,8 +7,7 @@
 
 😄 Outside of the world of programming I enjoy going to the gym, playing soccer, and trying new foods!
 
-📫 If you would like to connect you can reach me through the following:
-LinkedIn https://www.linkedin.com/in/ayosoile/ | Email ayosoile@cmail.carleton.ca
+📫 If you would like to connect you can reach me through the following: LinkedIn https://www.linkedin.com/in/ayosoile/ | Email ayosoile@cmail.carleton.ca
 <!--
 **ayosoile/ayosoile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
