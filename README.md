@@ -3,7 +3,7 @@
 ⚡Languages I use: Javascript, Python, C, HTML, CSS, C++, Java
 ⚡Frameworks/Tools: React.js, Node.js, SQLite, pandas library, Flask, Express, Pug
 
-👯 Experience: I previously worked at STEM MINDS, where I designed a database system for the companies inventory allowing for streamlined tracking of electronics and technology!
+👯 Experience: I previously worked at STEM MINDS, where I worked with SQLite, Python, pandas library, HTML, and CSS to designed a database system for the companies inventory allowing for streamlined tracking of electronics and technology!
 
 😄 Outside of the world of programming I enjoy going to the gym, playing soccer, and trying new foods!
 
