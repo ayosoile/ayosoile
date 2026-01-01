@@ -1,4 +1,4 @@
-## Hi there 👋! my name is Ayo, a Computer Science student at Carleton University wth a concentration in Algorithms! I love to build and learn, and am always looking to tackle new challenges to grow as a person!
+## Hi there 👋! my name is Ayo, a Computer Science student at Carleton University wth a concentration in Algorithms. I love to build and learn, and am always looking to tackle new challenges to grow as a person!
 
 ⚡Languages I use: Javascript, Python, C, HTML, CSS, C++, Java
 ⚡Frameworks/Tools: React.js, Node.js, SQLite, pandas library, Flask, Express, Pug, JSON, HTTPS
