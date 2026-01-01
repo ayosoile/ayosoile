@@ -3,7 +3,7 @@
 ⚡Languages I use: Javascript, Python, C, HTML, CSS, C++, Java
 ⚡Frameworks/Tools: React.js, Node.js, Express, MongoDB, JSON, HTTP/HTTPS, JWS, bcrypt, SQLite, pandas library, Flask, Express, Pug,
 
-👯 Experience: I have worked at STEM MINDS, where I worked with SQLite, Python, pandas library, HTML, and CSS to designed a database system for the companies inventory allowing for streamlined tracking of electronics and technology!
+👯 Experience: I worked as a software developer at STEM MINDS, where I worked with SQLite, Python, pandas library, HTML, and CSS to designed a database system for the companies inventory allowing for streamlined tracking of electronics and technology!
 
 I have also worked as a web developer for WeDeliver, where I led a team of 3 to deliver restaurant websites and services to clients, using Wix, WordPress, HTML, CSS, JavaScript, Gloriafood!
 
