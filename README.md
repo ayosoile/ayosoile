@@ -3,7 +3,7 @@
 ⚡Languages I use: Javascript, Python, C, HTML, CSS, C++, Java
 ⚡Frameworks/Tools: React.js, Node.js, Express, MongoDB, JSON, HTTP/HTTPS, JWT, bcrypt, SQLite, pandas library, Flask, Express, Pug,
 
-👯 Experience: I worked as a software developer at STEM MINDS, where I worked with SQLite, Python, pandas library, HTML, and CSS to designed a database system for the companies inventory allowing for streamlined tracking of electronics and technology!
+👯 Experience: I vurrently work as a data engineer at IRCC, where I work on internal tools, automation, and data pipelines. Previously I worked as a software developer at STEM MINDS, where I worked with SQLite, Python, pandas library, HTML, and CSS to designed a database system for the companies inventory allowing for streamlined tracking of electronics and technology. Coming up I will be working at the NRC as Software Engineer!
 
 I have also worked as a web developer for WeDeliver, a self made company where I led a team of 3 to deliver restaurant websites and services to clients, using Wix, WordPress, HTML, CSS, JavaScript, Gloriafood!
 
