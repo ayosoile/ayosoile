@@ -3,8 +3,11 @@
 💻 Technical Skills
 
 Languages: Python, JavaScript, Java, C, C++, SQL, HTML, CSS
+
 Frameworks & Libraries: React.js, Node.js, Express.js, Flask, Pandas, Pytest, Cypress
+
 Cloud & Databases: AWS Lambda, AWS S3, DuckDB, MongoDB, SQLite
+
 Developer Tools: Git, GitHub, GitLab, GitLab CI/CD, VS Code, npm
 
 👯 Experience: I currently work at the NRC, where I am developing full-stack features for CASRAS (Canadian Arctic Canadian Arctic Shipping Risk Assessment System).
